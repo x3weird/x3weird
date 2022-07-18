@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @x3weird
 - 👀 I’m always exicted to learn new things
-- 🌱 I’m interested in coding and entrepreneurship
+- 🌱 I’m interested in coding, security and entrepreneurship
 - 📫 How to reach me arjunsinhjadeja2364@gmail.com
 
 <!---
